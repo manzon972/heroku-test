@@ -1,0 +1,25 @@
+{
+  "name": "nodeapi",
+  "version": "1.0.0",
+  "description": "a test REST API",
+  "main": "server.js",
+  "scripts": {
+    "test": "node --inspect server.js",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "none"
+  },
+  "keywords": [
+    "rest",
+    "nodejs"
+  ],
+  "author": "Santiago M",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "cors": "^2.8.4",
+    "express": "^4.16.4"
+  }
+}
