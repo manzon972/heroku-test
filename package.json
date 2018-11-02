@@ -7,14 +7,6 @@
     "test": "node --inspect server.js",
     "start": "node server.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "none"
-  },
-  "keywords": [
-    "rest",
-    "nodejs"
-  ],
   "author": "Santiago M",
   "license": "ISC",
   "dependencies": {
